@@ -1,0 +1,14 @@
+c:\users\dexter\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\PhoneBook.Android\obj\Release\android\assets\PhoneBook.Android.dll
+c:\users\dexter\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\PhoneBook.Android\obj\Release\android\assets\Java.Interop.dll
+c:\users\dexter\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\PhoneBook.Android\obj\Release\android\assets\Mono.Android.dll
+c:\users\dexter\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\PhoneBook.Android\obj\Release\android\assets\System.Core.dll
+c:\users\dexter\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\PhoneBook.Android\obj\Release\android\assets\System.dll
+c:\users\dexter\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\PhoneBook.Android\obj\Release\android\assets\mscorlib.dll
+c:\users\dexter\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\PhoneBook.Android\obj\Release\android\assets\PhoneBook.dll
+c:\users\dexter\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\PhoneBook.Android\obj\Release\android\assets\SQLite-net.dll
+c:\users\dexter\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\PhoneBook.Android\obj\Release\android\assets\SQLitePCLRaw.batteries_green.dll
+c:\users\dexter\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\PhoneBook.Android\obj\Release\android\assets\SQLitePCLRaw.batteries_v2.dll
+c:\users\dexter\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\PhoneBook.Android\obj\Release\android\assets\SQLitePCLRaw.core.dll
+c:\users\dexter\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\PhoneBook.Android\obj\Release\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+c:\users\dexter\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\PhoneBook.Android\obj\Release\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+c:\users\dexter\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\PhoneBook.Android\obj\Release\android\assets\System.Runtime.Serialization.dll
